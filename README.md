@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=32&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%90%8B%2C+I'm+Chaitanya+Uthale;Full-Stack+%26+GenAI+Engineer;3x+National+Hackathon+Winner;IRF+Incubation+Awardee" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=32&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Hi+I'm+Chaitanya+Uthale;Full-Stack+%26+GenAI+Engineer;3x+National+Hackathon+Winner;IRF+Incubation+Awardee" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -40,10 +40,10 @@ chaitanya:
 
 | Event | Rank / Award | Description |
 | :--- | :--- | :--- |
-| 🥇 **GDG TechSprint 2026** | **Winner (1st Place)** | Built national winning AI solution among 400+ participating teams. |
-| 🥇 **HackMatrix 4.0** | **Winner (1st Place)** | 1st place overall for full-stack AI implementation. |
-| 🥇 **GDG Prabal 2025** | **Winner (1st Place)** | 1st rank in national-level hackathon showcase. |
-| 🚀 **IRF Incubation Offer** | **Official Incubation** | Awarded official incubation offer & seed backing for **SpeakUp**. |
+| 🥇 **GDG TechSprint 2026** | **Winner** | Built national winning AI solution among 400+ participating teams. |
+| 🥇 **HackMatrix 4.0** | **Winner** | Full-stack AI implementation. |
+| 🥇 **GDG Prabal 2025** | **Winner** | National-level hackathon showcase. |
+| 🚀 **IRF Incubation Offer** | Awarded official incubation offer for **SpeakUp**. |
 
 ---
 

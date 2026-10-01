@@ -115,7 +115,7 @@ chaitanya:
   🤝 <b>Let's collaborate on AI projects, full-stack systems, or hackathons!</b><br />
   📧 <b>Direct Email</b>: <a href="mailto:chaitanyauthale5@gmail.com">chaitanyauthale5@gmail.com</a><br />
   💼 <b>LinkedIn</b>: <a href="https://linkedin.com/in/chaitanya-uthale">linkedin.com/in/chaitanya-uthale</a><br />
-  🌐 <b>Portfolio</b>: <a href="https://amurtsportsclub.vercel.app">Chaitanya Uthale Portfolio</a><br />
+  🌐 <b>Portfolio</b>: <a href="https://chaitanyauthale.vercel.app/">Chaitanya Uthale Portfolio</a><br />
   🐦 <b>Twitter / X</b>: <a href="https://x.com/ChaitanyaUthale">@ChaitanyaUthale</a>
 </p>
 

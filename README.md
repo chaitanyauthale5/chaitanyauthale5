@@ -94,20 +94,7 @@ chaitanya:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
----
 
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chaitanyauthale5&show_icons=true&theme=cyan&count_private=true&hide_border=true" alt="Chaitanya's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanyauthale5&layout=compact&theme=cyan&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chaitanyauthale5&theme=cyan&hide_border=true" alt="GitHub Streak" width="97%" />
-</p>
-
----
 
 ### 📫 Connect With Me
 
